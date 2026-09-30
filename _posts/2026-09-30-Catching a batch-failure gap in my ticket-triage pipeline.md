@@ -2,9 +2,6 @@
 layout: post
 title: Catching a batch-failure gap in my ticket-triage pipeline
 ---
-
-# Catching a batch-failure gap in my ticket-triage pipeline
-
 Caught a gap in my ticket-triage pipeline in an AI code review, before it ever hit an outage. Logging it because the fix is boring but underrated.
 
 ## The gap
